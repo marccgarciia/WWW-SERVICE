@@ -1,0 +1,5 @@
+git clone HTTPS
+git add -A
+git commit -m "ACTUALIZACIÓN"
+git push origin main
+git pull (para actualizar repositorio)
